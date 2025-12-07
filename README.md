@@ -1,4 +1,4 @@
-# Demystifying K-Nearest Neighbors (KNN)
+# K-Nearest Neighbors (KNN)
 
 ## Overview
 This project explores the fundamental concepts of the **K-Nearest Neighbors (KNN)** algorithm. KNN is a simple yet powerful "lazy learning" algorithm used in machine learning for both classification (sorting things into categories) and regression (predicting numbers).
